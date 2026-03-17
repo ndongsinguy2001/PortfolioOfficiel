@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Développeur Full-Stack Junior",
+    "certified": "Certifié GOMYCODE",
+    "passionate": "Passionné par le web",
+    "creator": "Créateur d'applications",
+    "description": "Je conçois des applications web performantes et modernes avec React, Next.js, Node.js et MongoDB. Découvrez mes projets et n'hésitez pas à me contacter pour toute collaboration.",
+    "viewProjects": "Voir mes projets",
+    "downloadCV": "Télécharger CV"
+  },
+  "projects": {
+    "title": "Mes Projets",
+    "viewProject": "Voir le projet",
+    "code": "Code",
+    "noDemo": "Pas de démo"
+  },
+  "skills": {
+    "title": "Compétences"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "description1": "Développeur Full-Stack junior certifié par GOMYCODE (2026). Passionné par la création d'applications web performantes et responsives, je maîtrise les technologies modernes comme React, Next.js, Node.js et MongoDB.",
+    "description2": "J'ai eu l'occasion de développer plusieurs projets concrets, notamment une plateforme e-commerce (SUNU-MARCHE), une application de suivi de stagiaires (Intern-Track) et un logiciel de gestion scolaire. Ces expériences m'ont permis de renforcer ma capacité à travailler en équipe, à résoudre des problèmes complexes et à livrer des solutions de qualité.",
+    "description3": "En dehors du code, je suis passionné de sport, de veille technologique et de jeux d'esprit. Je suis ouvert aux opportunités professionnelles en tant que développeur full-stack.",
+    "experiences": "Expériences",
+    "formations": "Formations",
+    "technicalSkills": "Compétences techniques"
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "subtitle": "Restons en contact",
+    "description": "Je suis toujours ouvert aux nouvelles opportunités et collaborations. N'hésitez pas à me contacter pour discuter de vos projets.",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "sending": "Envoi...",
+    "success": "Message envoyé avec succès !",
+    "error": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "footer": {
+    "description": "Développeur Full-Stack junior passionné par la création d'applications web modernes et performantes.",
+    "quickLinks": "Liens rapides",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "designed": "Conçu avec ❤️ à Dakar"
+  },
+  "easterEgg": {
+    "message": "🎉 Bravo ! Tu as trouvé l'easter egg !",
+    "contact": "💡 Si tu veux me contacter : ndongsinguy2001@gmail.com"
+  }
+}

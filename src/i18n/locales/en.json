@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "skills": "Skills",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Full-Stack Junior Developer",
+    "certified": "GOMYCODE Certified",
+    "passionate": "Passionate about web",
+    "creator": "Application Creator",
+    "description": "I design high-performance modern web applications with React, Next.js, Node.js and MongoDB. Discover my projects and feel free to contact me for any collaboration.",
+    "viewProjects": "View projects",
+    "downloadCV": "Download CV"
+  },
+  "projects": {
+    "title": "My Projects",
+    "viewProject": "View project",
+    "code": "Code",
+    "noDemo": "No demo"
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "about": {
+    "title": "About me",
+    "description1": "Junior Full-Stack Developer certified by GOMYCODE (2026). Passionate about creating high-performance responsive web applications, I master modern technologies like React, Next.js, Node.js and MongoDB.",
+    "description2": "I have developed several concrete projects, including an e-commerce platform (SUNU-MARCHE), a trainee tracking application (Intern-Track) and a school management software. These experiences strengthened my ability to work in teams, solve complex problems and deliver quality solutions.",
+    "description3": "Outside of coding, I am passionate about sports, technology watch and mind games. I am open to professional opportunities as a full-stack developer.",
+    "experiences": "Experience",
+    "formations": "Education",
+    "technicalSkills": "Technical skills"
+  },
+  "contact": {
+    "title": "Contact me",
+    "subtitle": "Let's stay in touch",
+    "description": "I am always open to new opportunities and collaborations. Feel free to contact me to discuss your projects.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "An error occurred. Please try again."
+  },
+  "footer": {
+    "description": "Junior Full-Stack Developer passionate about creating modern and performant web applications.",
+    "quickLinks": "Quick links",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "designed": "Designed with ❤️ in Dakar"
+  },
+  "easterEgg": {
+    "message": "🎉 Congrats! You found the easter egg!",
+    "contact": "💡 If you want to contact me: ndongsinguy2001@gmail.com"
+  }
+}
