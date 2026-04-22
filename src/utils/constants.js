@@ -6,7 +6,7 @@ export const personalInfo = {
   location: 'Dakar, Sénégal',
   github: 'https://github.com/ndongsinguy2001',
   linkedin: 'https://www.linkedin.com/in/singuy-ndong-97a7b32a0',
-  cvUrl: '/cv-singuy.pdf',
+  cvUrl: '/SINGUY NDONG (3).pdf',
 };
 export const experiences = [
   {
