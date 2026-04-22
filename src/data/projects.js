@@ -27,7 +27,7 @@ export const projects = [
     description: 'Logiciel de gestion des élèves, notes et emplois du temps',
     longDescription: 'Application pour écoles, gestion des inscriptions, bulletins et communication.',
     image: '/images/projects/gestion-scolaire.jpg',
-    technologies: ['React', 'Node.js', 'MongoDB', 'Socket.io'],
+    technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'Tailwind'],
     github: 'https://github.com/ndongsinguy2001/gestion-scolaire',
      demo: 'https://projet-de-ndong-nht3.vercel.app',
   },
